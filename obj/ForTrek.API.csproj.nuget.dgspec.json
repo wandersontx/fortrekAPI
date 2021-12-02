@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/wanderson/Desktop/fortrek/Back/src/ForTrek.API/ForTrek.API.csproj": {}
+    "/home/wanderson/Desktop/fortrek/ForTrek.API/ForTrek.API.csproj": {}
   },
   "projects": {
-    "/home/wanderson/Desktop/fortrek/Back/src/ForTrek.API/ForTrek.API.csproj": {
+    "/home/wanderson/Desktop/fortrek/ForTrek.API/ForTrek.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/wanderson/Desktop/fortrek/Back/src/ForTrek.API/ForTrek.API.csproj",
+        "projectUniqueName": "/home/wanderson/Desktop/fortrek/ForTrek.API/ForTrek.API.csproj",
         "projectName": "ForTrek.API",
-        "projectPath": "/home/wanderson/Desktop/fortrek/Back/src/ForTrek.API/ForTrek.API.csproj",
+        "projectPath": "/home/wanderson/Desktop/fortrek/ForTrek.API/ForTrek.API.csproj",
         "packagesPath": "/home/wanderson/.nuget/packages/",
-        "outputPath": "/home/wanderson/Desktop/fortrek/Back/src/ForTrek.API/obj/",
+        "outputPath": "/home/wanderson/Desktop/fortrek/ForTrek.API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/wanderson/.nuget/NuGet/NuGet.Config"
